@@ -3,6 +3,7 @@
 效果如下：
 <br>
 <br>
-![image](https://img-blog.csdnimg.cn/20190712155610923.gif)
+![github](https://github.com/qifengdeqingchen/loadingview/blob/master/zidingyixialashuaxin.gif "github")
+
 
 [博客介绍](https://blog.csdn.net/qifengdeqingchen/article/details/95621782)
